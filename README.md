@@ -1,4 +1,7 @@
 # Main-Flow-Task-2
+
+## Analyse Supermarket Data and Predict Sales:
+
 Main Flow Task 2 as data science intern at Main Flow Services and Technology
 
 Dataset source: https://github.com/yannie28/Global-Superstore/blob/master/Global_Superstore(CSV).csv
